@@ -6,7 +6,10 @@
  <br/>
  
 # Developer
-- Matteo Sensi
+- [Matteo Sensi][matteosensi]
  
 # Designer
-- Christian Alessandri
+- [Christian Alessandri][christianalessandri]
+
+[matteosensi]: https://github.com/LolloProgrammer
+[christianalessandri]: https://github.com/ChristianAlessandri
