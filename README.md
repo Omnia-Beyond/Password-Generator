@@ -11,5 +11,10 @@
 # Designer
 - [Christian Alessandri][christianalessandri]
 
+# Dependencies (Libraries)
+- Pillow
+- Pyperclip
+- Tkinter
+
 [matteosensi]: https://github.com/LolloProgrammer
 [christianalessandri]: https://github.com/ChristianAlessandri
