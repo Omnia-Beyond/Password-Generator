@@ -5,16 +5,13 @@
  <br/>
  <br/>
  
-<h3 align="center">Developerz</h3>
-- [Matteo Sensi][matteosensi]
+<h3 align="center">Developer</h3>
+- [Matteo Sensi](https://github.com/LolloProgrammer)
  
 <h3 align="center">Designer</h3>
-- [Christian Alessandri][christianalessandri]
+- [Christian Alessandri](https://github.com/ChristianAlessandri)
 
 <h3 align="center">Dependencies (Libraries)</h3>
 - Pillow
 - Pyperclip
 - Tkinter
-
-[matteosensi]: https://github.com/LolloProgrammer
-[christianalessandri]: https://github.com/ChristianAlessandri
